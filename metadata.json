@@ -1,0 +1,5 @@
+{
+  "name": "Tic-Tac-Toe Moderno",
+  "description": "Um jogo da velha clássico com uma interface moderna, animações suaves e rastreamento de pontuação.",
+  "requestFramePermissions": []
+}
